@@ -1,1 +1,0 @@
-import{_ as a,r,e as n,c as s,w as e,q as c,s as t,t as _}from"./vendor.js";const u={};function l(f,i){const o=r("router-view");return n(),s(c,null,{default:e(()=>[t(_,null,{default:e(()=>[t(o)]),_:1})]),_:1})}const m=a(u,[["render",l],["__file","EmptyLayout.vue"]]);export{m as default};
